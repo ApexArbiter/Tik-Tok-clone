@@ -52,8 +52,7 @@ Comprehensive documentation is available in the following files:
 ## 🏗️ Tech Stack
 
 - **Framework**: Next.js 14.1.4 (App Router)
-- **UI Library**: React 18
-- **Styling**: Tailwind CSS 3.3.0
+- 
 - **State Management**: Zustand 4.5.4
 - **Forms**: React Hook Form 7.52.0
 - **Animations**: React Spring 9.7.4
